@@ -1,10 +1,6 @@
 
 
-# React/Sass/Redux 
-
-## Getting Started
-
-### React/Sass/Redux build.
+# React/Sass/Redux build.
 
 To get started, first install all the necessary dependencies.
 ```
