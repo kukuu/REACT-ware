@@ -24,6 +24,7 @@ class UserList extends Component {
             <ul>
                 {this.renderList()}
             </ul>
+
         );
     }
 
