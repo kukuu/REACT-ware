@@ -2,7 +2,6 @@
 import React from 'react';
 import UserList from '../containers/user-list';
 import UserDetails from '../containers/user-detail';
-import BMICalculator from './BMI';
 
 require('../../scss/style.scss');
 
